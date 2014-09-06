@@ -1,4 +1,4 @@
-
+//mod 6/7 Lightning
 int startX=(int)(Math.random()*300 + 30);
 int startY=0;
 int endX=(int)(Math.random()*300 +30);
